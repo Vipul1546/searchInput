@@ -70,6 +70,7 @@
   transition: all 0.3s;
   margin-bottom: 5px;
   margin-top: 5px;
+  cursor: pointer;
 }
 .card.hover {
   background-color: #d0d0d0;
